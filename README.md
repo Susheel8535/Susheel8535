@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Susheel8535
+- 👋 Hi, I’m Susheel kumar
 - 👀 I’m interested in web development and android devlopment 
 - 🌱 I’m currently learning  web , android and dsa with java
-- 💞️ I’m looking to collaborate on 
+  
   
 
 <!---
